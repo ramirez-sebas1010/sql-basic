@@ -1,0 +1,1 @@
+-- Los Joins permite que nosotros podamos traer datos de varios tablas en un solo query 
